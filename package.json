@@ -1,0 +1,15 @@
+{
+  "name": "tindoghost",
+  "version": "1.0.0",
+  "description": "tindog sample website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erman Dinsel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve-favicon": "^2.5.0"
+  }
+}
